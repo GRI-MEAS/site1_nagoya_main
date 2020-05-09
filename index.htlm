@@ -1,0 +1,13 @@
+<!DOCTYPE >
+<html lang="jp" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>test</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <a href="https://www.sejuku.net">
+            <button type="button">遷移！</button>
+        </a>
+    </body>
+</html>
