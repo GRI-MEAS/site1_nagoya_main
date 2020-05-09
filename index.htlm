@@ -6,7 +6,11 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>中央新幹線名古屋駅新設工事（中央東工区）！</h1>
+        <div class="header">
+            <div class="header-logo">
+                【中央新幹線名古屋駅新設（中央東工区）】
+            </div>
+        </div>
         <a href="https://www.sejuku.net">
             <button type="button">遷移！</button>
         </a>
